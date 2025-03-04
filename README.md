@@ -30,3 +30,11 @@ python automation_tool.py convert --source input.csv --destination output.json
 ## Installation
 
 1. Clone this repository:
+```
+git clone [https://github.com/yourusername/simple-python-automation.git](https://github.com/yourusername/simple-python-automation.git)
+```
+2. (Optional) Create and activate a virtual environment:
+```
+python -m venv venv
+source venv/bin/activate  # On Windows, use: venv\Scripts\activate
+```
