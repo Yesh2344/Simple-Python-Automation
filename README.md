@@ -38,3 +38,13 @@ git clone [https://github.com/yourusername/simple-python-automation.git](https:/
 python -m venv venv
 source venv/bin/activate  # On Windows, use: venv\Scripts\activate
 ```
+
+3. You're ready to use the tool!
+
+## Contributing
+
+Feel free to fork this repository and submit pull requests to contribute to this project. You can also open issues for any bugs or feature requests.
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
