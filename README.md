@@ -22,3 +22,11 @@ python automation_tool.py copy --source /path/to/source --destination /path/to/d
 ```
 python automation_tool.py convert --source input.csv --destination output.json
 ```
+
+## Requirements
+
+- Python 3.6 or higher
+
+## Installation
+
+1. Clone this repository:
