@@ -51,4 +51,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Copyright
 
-@Yeswanth Soma
+@Yeswanth Soma All Copyrights Reserved
