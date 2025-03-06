@@ -48,3 +48,5 @@ Feel free to fork this repository and submit pull requests to contribute to this
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+## Copyright
