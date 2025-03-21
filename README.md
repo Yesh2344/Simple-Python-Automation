@@ -31,7 +31,7 @@ python automation_tool.py convert --source input.csv --destination output.json
 
 1. Clone this repository:
 ```
-git clone [https://github.com/yesh2344/simple-python-automation.git](https://github.com/yourusername/simple-python-automation.git)
+git clone [https://github.com/yesh2344/simple-python-automation.git](https://github.com/yesh2344/simple-python-automation.git)
 ```
 2. (Optional) Create and activate a virtual environment:
 ```
