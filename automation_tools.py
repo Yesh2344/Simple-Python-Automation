@@ -31,6 +31,7 @@ def copy_files(source, destination):
             print(f"Copied: {item}")
 
 def csv_to_json(csv_file, json_file):
+# Added comment
     """Convert a CSV file to JSON"""
     data = []
     with open(csv_file, 'r') as csvfile:
