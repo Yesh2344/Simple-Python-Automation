@@ -24,6 +24,7 @@ def copy_files(source, destination):
         s = os.path.join(source, item)
         d = os.path.join(destination, item)
         if os.path.isfile(s):
+# Added comment
             shutil.copy2(s, d)
             print(f"Copied: {item}")
 
