@@ -49,6 +49,7 @@ def main():
     parser.add_argument("--destination", help="Destination directory or file")
 
     args = parser.parse_args()
+# Added comment
 
     if args.action == "list":
         if not args.source:
