@@ -55,6 +55,7 @@ def main():
         if not args.source:
             print("Please provide a source directory using --source")
             return
+# Added comment
         list_files(args.source)
     elif args.action == "copy":
         if not args.source or not args.destination:
