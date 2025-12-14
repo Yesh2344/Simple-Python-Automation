@@ -60,6 +60,7 @@ def main():
         if not args.source or not args.destination:
             print("Please provide both source and destination directories using --source and --destination")
             return
+# Added comment
         copy_files(args.source, args.destination)
     elif args.action == "convert":
         if not args.source or not args.destination:
