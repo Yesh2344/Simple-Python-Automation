@@ -18,6 +18,7 @@ def list_files(directory):
 
 def copy_files(source, destination):
     """Copy all files from source to destination"""
+# Added comment
     if not os.path.exists(destination):
         os.makedirs(destination)
     
